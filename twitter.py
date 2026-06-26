@@ -25,8 +25,8 @@ accounts = [
     
     
     {
-    "email": "its_elliana",
-    "password": "Elliana!Twitter",
+    "email": "email",
+    "password": "password",
     "cookie_file": os.path.join(script_dir,"cookies.txt"),
     "replied_file": os.path.join(script_dir, "its_elliana_replied.txt"),
     "image_paths": [
@@ -116,8 +116,8 @@ accounts = [
     ]
 },
     {
-  "email": "youluvlexi_",
-  "password": "Twitter24Lexi",
+  "email": "email",
+  "password": "pass",
   "cookie_file": os.path.join(script_dir, "cookies1.txt"),
   "replied_file": os.path.join(script_dir, "youluvlexi_replied.txt"),
   "image_paths": [
@@ -244,8 +244,8 @@ accounts = [
 },
     
     {
-  "email": "peachyymiah",
-  "password": "Twitter24Miah",
+  "email": "email",
+  "password": "pass",
   "cookie_file": os.path.join(script_dir, "cookies2.txt"),
   "replied_file": os.path.join(script_dir, "peachyymiah_replied.txt"),
   "image_paths":[
@@ -338,8 +338,8 @@ accounts = [
     ]
 },
     {
-  "email": "Katheri94919893",
-  "password": "Katherine!Twitter",
+  "email": "email",
+  "password": "pass",
   "cookie_file": os.path.join(script_dir, "cookies3.txt"),
   "replied_file": os.path.join(script_dir, "Katheri94919893_replied.txt"),
   "image_paths": [
